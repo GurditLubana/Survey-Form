@@ -1,0 +1,7 @@
+body{
+    background-image: url(background-image.jpg);
+    background-size: cover;
+    background-color: rgba(71, 9, 215, 0.8);
+    background-blend-mode: overlay;
+    color: white;
+}
