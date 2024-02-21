@@ -2,7 +2,7 @@
 
 Welcome to the Computer Science Course Feedback Survey website! This project was created to strengthen HTML and CSS skills and to provide a platform for users to provide feedback on their computer science courses.
 
-The website is hosted on Netlify and can be accessed [here]([https://your-netlify-url.com](https://main--cssurveyforms.netlify.app/)).
+The website is hosted on Netlify and can be accessed  [here](https://main--cssurveyforms.netlify.app/)
 
 ## Project Structure
 
@@ -28,7 +28,3 @@ Some potential improvements for this project include:
 To run the project locally:
 1. Clone this repository to your local machine
 2. Open `index.html` in your browser
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-https://main--cssurveyforms.netlify.app/
