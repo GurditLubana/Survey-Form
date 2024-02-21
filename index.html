@@ -11,7 +11,7 @@
 <body>
 
     <header>
-        <h1 id="title">BootCamp Survey Form</h1>
+        <h2 id="title">BootCamp Survey Form</h2>
         <p>Thank you for taking the time to help us improve the platform</p>
     </header>
 
@@ -33,8 +33,8 @@
 
         </fieldset>
 
-        <legend>Would you recommend this BootCamp to a friend?</legend>
         <fieldset>
+            <legend>Would you recommend this BootCamp to a friend?</legend>
             <label for="definitely"> <input id="definitely" name="recommendation" class="radio" type="radio">
                 Definitely</label>
             <label for="maybe"> <input id="maybe" name="recommendation" class="radio" type="radio"> May Be</label>
@@ -68,7 +68,10 @@
                     <label for="Forum"> <input type="checkbox">Forum</label>
         </fieldset>
 
-        
+        <fieldset>
+            <label for="comments">Any comments or suggestions?<textarea name="comments" id="comments" cols="30" rows="10" placeholder= "Enter your comment here..."></textarea></label>
+        </fieldset>
+        <button class="submitbtn" type="submit">Submit</button>
     </form>
 
 </body>
